@@ -1,2 +1,9 @@
 **/.DS_Store
 **/.vscode
+
+# Ignore everything that starts with 'handout'
+handout*
+
+# But not these specific files
+!handout.tex
+!handout.pdf
