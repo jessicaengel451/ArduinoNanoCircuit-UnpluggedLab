@@ -45,14 +45,7 @@ Here's what you'll need for the activities:
    - Connect a slide switch to `pin 2`.
    - Connect an LED to `pin 8`.
    - Toggle an LED with the switch.
-   ![Slide Switch](led_switch_nano_bb.png)   
-
-1. Potentiometer Control
-
-   - Connect a potentiometer to `A0`.
-   - Connect an LED to `pin 10`.
-   - Adjusts LED brightness with the potentiometer.
-   ![Potentiometer](potent_nano_bb.png)
+   ![Slide Switch](led_switch_nano_bb.png)
 
 1. Push Button Control
 
@@ -67,6 +60,13 @@ Here's what you'll need for the activities:
    - Connect an LED to `pin 4`.
    - Turns on an LED based on light levels near photoresistor.
    ![Photoresistor](photoresistor_nano_bb.png)
+
+1. Potentiometer Control
+
+   - Connect a potentiometer to `A0`.
+   - Connect an LED to `pin 10`.
+   - Adjusts LED brightness with the potentiometer.
+   ![Potentiometer](potent_nano_bb.png)
 
 ## Programming the Arduino Nano
 
