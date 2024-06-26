@@ -6,9 +6,9 @@ Welcome! After setting up your ArduinoNanoCircuit Unplugged Lab, this Arduino al
 
 ## To Fix
 
-- [ ] motor overheating
+- [x] motor overheating
 - [x] fix switch
-- [ ] change order to do potentiometer before photoresitor
+- [x] change order to do potentiometer before photoresitor
 
 ## Materials List
 
