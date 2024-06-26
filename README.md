@@ -26,40 +26,47 @@ Here's what you'll need for the activities:
 
    - Connect an LED to `pin 3`.
    - Blinks the LED on and off.
+   ![Blink](led_basic_nano_bb.png)
 
 1. Fading LED
 
    - Connect an LED to `pin 5`.
-   - Gradually changse the LED brightness.
+   - Gradually change the LED brightness.
+   ![Fade](fade_nano_bb.png)
 
 1. DC Motor
 
    - Connect a DC motor to `pin 9`.
-   - Ccontrols the motor speed and direction.
-
-1. Potentiometer Control
-
-   - Connect a potentiometer to `A0`.
-   - Connect an LED to `pin 10`.
-   - Adjusts LED brightness with the potentiometer.
-
-1. Photoresistor Control
-
-   - Connect a photoresistor to `A1`.
-   - Connect an LED to `pin 4`.
-   - Turns on an LED based on light levels near photoresistor.
+   - Controls the motor speed and direction.
+   ![Motor](motor_nano_bb.png)
 
 1. Slide Switch Control
 
    - Connect a slide switch to `pin 2`.
    - Connect an LED to `pin 8`.
    - Toggle an LED with the switch.
+   ![Slide Switch](led_switch_nano_bb.png)   
+
+1. Potentiometer Control
+
+   - Connect a potentiometer to `A0`.
+   - Connect an LED to `pin 10`.
+   - Adjusts LED brightness with the potentiometer.
+   ![Potentiometer](potent_nano_bb.png)
 
 1. Push Button Control
 
    - Connect a push button to `pin 7`.
    - Connect an LED to `pin 11`.
    - Controls an LED with the button.
+   ![Button](button_nano_bb.png)
+
+1. Photoresistor Control
+
+   - Connect a photoresistor to `A1`.
+   - Connect an LED to `pin 4`.
+   - Turns on an LED based on light levels near photoresistor.
+   ![Photoresistor](photoresistor_nano_bb.png)
 
 ## Programming the Arduino Nano
 
