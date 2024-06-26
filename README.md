@@ -4,6 +4,12 @@
 
 Welcome! After setting up your ArduinoNanoCircuit Unplugged Lab, this Arduino allows people to build circuits without needing a computer or the knowledge of how to code. This guide provides everything you need to get started with hands-on Arduino Nano projects where you can program and go. **After coding the Arduino Nanos no computer is necessary!** This project only needs a 9v battery or USB to an outlet to work. You'll learn how to build and program circuits involving LEDs, motors, potentiometers, photoresistors, slide switches, and push buttons.
 
+## To Fix
+
+- [ ] motor overheating
+- [x] fix switch
+- [ ] change order to do potentiometer before photoresitor
+
 ## Materials List
 
 Here's what you'll need for the activities:
