@@ -1,8 +1,8 @@
-# NanoCircuit Unplugged Lab
+# ArduinoNanoCircuit Unplugged Lab
 
 ## Overview
 
-Welcome to the NanoCircuit Unplugged Lab! This guide provides everything you need to get started with hands-on Arduino Nano projects where you can program and go. **After coding the Arduino Nanos no computer is necessary!** This project only needs a 9v battery or USB to an outlet to work. You'll learn how to build and program circuits involving LEDs, motors, potentiometers, photoresistors, slide switches, and push buttons.
+Welcome! After setting up your ArduinoNanoCircuit Unplugged Lab, this Arduino allows people to build circuits without needing a computer or the knowledge of how to code. This guide provides everything you need to get started with hands-on Arduino Nano projects where you can program and go. **After coding the Arduino Nanos no computer is necessary!** This project only needs a 9v battery or USB to an outlet to work. You'll learn how to build and program circuits involving LEDs, motors, potentiometers, photoresistors, slide switches, and push buttons.
 
 ## Materials List
 
@@ -25,41 +25,41 @@ Here's what you'll need for the activities:
 1. Blinking LED
 
    - Connect an LED to `pin 3`.
-   - Code to blink the LED on and off.
+   - Blinks the LED on and off.
 
 1. Fading LED
 
    - Connect an LED to `pin 5`.
-   - Code to gradually change the LED brightness.
+   - Gradually changse the LED brightness.
 
 1. DC Motor
 
    - Connect a DC motor to `pin 9`.
-   - Code to control the motor speed and direction.
+   - Ccontrols the motor speed and direction.
 
 1. Potentiometer Control
 
    - Connect a potentiometer to `A0`.
    - Connect an LED to `pin 10`.
-   - Code to adjust LED brightness with the potentiometer.
+   - Adjusts LED brightness with the potentiometer.
 
 1. Photoresistor Control
 
    - Connect a photoresistor to `A1`.
    - Connect an LED to `pin 4`.
-   - Code to turn on an LED based on light levels.
+   - Turns on an LED based on light levels near photoresistor.
 
 1. Slide Switch Control
 
    - Connect a slide switch to `pin 2`.
    - Connect an LED to `pin 8`.
-   - Code to toggle an LED with the switch.
+   - Toggle an LED with the switch.
 
 1. Push Button Control
 
    - Connect a push button to `pin 7`.
    - Connect an LED to `pin 11`.
-   - Code to control an LED with the button.
+   - Controls an LED with the button.
 
 ## Programming the Arduino Nano
 
@@ -99,4 +99,4 @@ Follow these steps to program your Arduino Nano:
 
 ## Conclusion
 
-With the NanoCircuit Unplugged Lab, students gain practical experience in building circuits without needing a computer or the knowledge of how to code. Enjoy your journey into the world of electronics and Arduino programming!
+With the ArduinoNanoCircuit Unplugged Lab, students gain practical experience in building circuits without needing a computer or the knowledge of how to code Build with peace knowing you won't have to troubleshoot software issues. Enjoy your journey into the world of electronics and Arduino programming!
