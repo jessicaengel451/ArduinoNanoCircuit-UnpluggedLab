@@ -40,7 +40,7 @@ Here's what you'll need for the activities:
    - Gradually change the LED brightness.
    ![Fade](fade_nano_bb.png)
 
-1. DC Motor
+1. DC Motor (We did have some issues with overheating/melting batteries for this one)
 
    - Connect a DC motor to `pin 9`.
    - Controls the motor speed and direction.
