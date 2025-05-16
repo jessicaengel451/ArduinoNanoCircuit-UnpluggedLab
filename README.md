@@ -60,6 +60,13 @@ Here's what you'll need for the activities:
    - Controls an LED with the button.
    ![Button](button_nano_bb.png)
 
+1. Potentiometer Control
+
+   - Connect a potentiometer to `A0`.
+   - Connect an LED to `pin 10`.
+   - Adjusts LED brightness with the potentiometer.
+   ![Potentiometer](potent_nano_bb.png)
+
 1. Photoresistor Control
 
    - Connect a photoresistor to `A1`.
@@ -67,12 +74,6 @@ Here's what you'll need for the activities:
    - Turns on an LED based on light levels near photoresistor.
    ![Photoresistor](photoresistor_nano_bb.png)
 
-1. Potentiometer Control
-
-   - Connect a potentiometer to `A0`.
-   - Connect an LED to `pin 10`.
-   - Adjusts LED brightness with the potentiometer.
-   ![Potentiometer](potent_nano_bb.png)
 
 ## Programming the Arduino Nano
 
@@ -108,7 +109,9 @@ Follow these steps to program your Arduino Nano:
 1. **Run the Activities**:
 
    - Refer to the wiring diagrams and connect your components to the breadboard and Arduino Nano as described in the activities.
-   - Once the code is uploaded you can start to build and play with the circuits.
+   - Once the code is uploaded, you can start to build and play with the circuits.
+   - Try to have 1 Arduino Nano for each student. With 2 students at each Arduino, there was less student engagement.
+   - Print the [Handout](handout.pdf) and allow students to go at their own pace.
 
 ## Conclusion
 
